@@ -1,0 +1,15 @@
+C:\Users\crt18\OneDrive\Escritorio\Prueba\PruebaTecnica\PruebaTecnica.Application\bin\Debug\net6.0\PruebaTecnica.Application.deps.json
+C:\Users\crt18\OneDrive\Escritorio\Prueba\PruebaTecnica\PruebaTecnica.Application\bin\Debug\net6.0\PruebaTecnica.Application.dll
+C:\Users\crt18\OneDrive\Escritorio\Prueba\PruebaTecnica\PruebaTecnica.Application\bin\Debug\net6.0\PruebaTecnica.Application.pdb
+C:\Users\crt18\OneDrive\Escritorio\Prueba\PruebaTecnica\PruebaTecnica.Application\bin\Debug\net6.0\PruebaTecnica.Domain.dll
+C:\Users\crt18\OneDrive\Escritorio\Prueba\PruebaTecnica\PruebaTecnica.Application\bin\Debug\net6.0\PruebaTecnica.Domain.pdb
+C:\Users\crt18\OneDrive\Escritorio\Prueba\PruebaTecnica\PruebaTecnica.Application\obj\Debug\net6.0\PruebaTecnica.Application.csproj.AssemblyReference.cache
+C:\Users\crt18\OneDrive\Escritorio\Prueba\PruebaTecnica\PruebaTecnica.Application\obj\Debug\net6.0\PruebaTecnica.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\crt18\OneDrive\Escritorio\Prueba\PruebaTecnica\PruebaTecnica.Application\obj\Debug\net6.0\PruebaTecnica.Application.AssemblyInfoInputs.cache
+C:\Users\crt18\OneDrive\Escritorio\Prueba\PruebaTecnica\PruebaTecnica.Application\obj\Debug\net6.0\PruebaTecnica.Application.AssemblyInfo.cs
+C:\Users\crt18\OneDrive\Escritorio\Prueba\PruebaTecnica\PruebaTecnica.Application\obj\Debug\net6.0\PruebaTecnica.Application.csproj.CoreCompileInputs.cache
+C:\Users\crt18\OneDrive\Escritorio\Prueba\PruebaTecnica\PruebaTecnica.Application\obj\Debug\net6.0\PruebaTecnica.Application.csproj.CopyComplete
+C:\Users\crt18\OneDrive\Escritorio\Prueba\PruebaTecnica\PruebaTecnica.Application\obj\Debug\net6.0\PruebaTecnica.Application.dll
+C:\Users\crt18\OneDrive\Escritorio\Prueba\PruebaTecnica\PruebaTecnica.Application\obj\Debug\net6.0\refint\PruebaTecnica.Application.dll
+C:\Users\crt18\OneDrive\Escritorio\Prueba\PruebaTecnica\PruebaTecnica.Application\obj\Debug\net6.0\PruebaTecnica.Application.pdb
+C:\Users\crt18\OneDrive\Escritorio\Prueba\PruebaTecnica\PruebaTecnica.Application\obj\Debug\net6.0\ref\PruebaTecnica.Application.dll
