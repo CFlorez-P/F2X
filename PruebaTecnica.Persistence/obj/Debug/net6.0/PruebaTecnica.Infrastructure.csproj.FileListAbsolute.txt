@@ -1,0 +1,15 @@
+C:\Users\crt18\OneDrive\Escritorio\Prueba\PruebaTecnica\PruebaTecnica.Persistence\bin\Debug\net6.0\PruebaTecnica.Infrastructure.deps.json
+C:\Users\crt18\OneDrive\Escritorio\Prueba\PruebaTecnica\PruebaTecnica.Persistence\bin\Debug\net6.0\PruebaTecnica.Infrastructure.dll
+C:\Users\crt18\OneDrive\Escritorio\Prueba\PruebaTecnica\PruebaTecnica.Persistence\bin\Debug\net6.0\PruebaTecnica.Infrastructure.pdb
+C:\Users\crt18\OneDrive\Escritorio\Prueba\PruebaTecnica\PruebaTecnica.Persistence\bin\Debug\net6.0\PruebaTecnica.Domain.dll
+C:\Users\crt18\OneDrive\Escritorio\Prueba\PruebaTecnica\PruebaTecnica.Persistence\bin\Debug\net6.0\PruebaTecnica.Domain.pdb
+C:\Users\crt18\OneDrive\Escritorio\Prueba\PruebaTecnica\PruebaTecnica.Persistence\obj\Debug\net6.0\PruebaTecnica.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\crt18\OneDrive\Escritorio\Prueba\PruebaTecnica\PruebaTecnica.Persistence\obj\Debug\net6.0\PruebaTecnica.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\crt18\OneDrive\Escritorio\Prueba\PruebaTecnica\PruebaTecnica.Persistence\obj\Debug\net6.0\PruebaTecnica.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\crt18\OneDrive\Escritorio\Prueba\PruebaTecnica\PruebaTecnica.Persistence\obj\Debug\net6.0\PruebaTecnica.Infrastructure.AssemblyInfo.cs
+C:\Users\crt18\OneDrive\Escritorio\Prueba\PruebaTecnica\PruebaTecnica.Persistence\obj\Debug\net6.0\PruebaTecnica.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\crt18\OneDrive\Escritorio\Prueba\PruebaTecnica\PruebaTecnica.Persistence\obj\Debug\net6.0\PruebaTecnica.Infrastructure.csproj.CopyComplete
+C:\Users\crt18\OneDrive\Escritorio\Prueba\PruebaTecnica\PruebaTecnica.Persistence\obj\Debug\net6.0\PruebaTecnica.Infrastructure.dll
+C:\Users\crt18\OneDrive\Escritorio\Prueba\PruebaTecnica\PruebaTecnica.Persistence\obj\Debug\net6.0\refint\PruebaTecnica.Infrastructure.dll
+C:\Users\crt18\OneDrive\Escritorio\Prueba\PruebaTecnica\PruebaTecnica.Persistence\obj\Debug\net6.0\PruebaTecnica.Infrastructure.pdb
+C:\Users\crt18\OneDrive\Escritorio\Prueba\PruebaTecnica\PruebaTecnica.Persistence\obj\Debug\net6.0\ref\PruebaTecnica.Infrastructure.dll

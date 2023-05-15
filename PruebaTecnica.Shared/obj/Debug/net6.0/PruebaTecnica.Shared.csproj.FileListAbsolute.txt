@@ -1,0 +1,12 @@
+C:\Users\crt18\OneDrive\Escritorio\Prueba\PruebaTecnica\PruebaTecnica.Shared\bin\Debug\net6.0\PruebaTecnica.Shared.deps.json
+C:\Users\crt18\OneDrive\Escritorio\Prueba\PruebaTecnica\PruebaTecnica.Shared\bin\Debug\net6.0\PruebaTecnica.Shared.dll
+C:\Users\crt18\OneDrive\Escritorio\Prueba\PruebaTecnica\PruebaTecnica.Shared\bin\Debug\net6.0\PruebaTecnica.Shared.pdb
+C:\Users\crt18\OneDrive\Escritorio\Prueba\PruebaTecnica\PruebaTecnica.Shared\obj\Debug\net6.0\PruebaTecnica.Shared.csproj.AssemblyReference.cache
+C:\Users\crt18\OneDrive\Escritorio\Prueba\PruebaTecnica\PruebaTecnica.Shared\obj\Debug\net6.0\PruebaTecnica.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\crt18\OneDrive\Escritorio\Prueba\PruebaTecnica\PruebaTecnica.Shared\obj\Debug\net6.0\PruebaTecnica.Shared.AssemblyInfoInputs.cache
+C:\Users\crt18\OneDrive\Escritorio\Prueba\PruebaTecnica\PruebaTecnica.Shared\obj\Debug\net6.0\PruebaTecnica.Shared.AssemblyInfo.cs
+C:\Users\crt18\OneDrive\Escritorio\Prueba\PruebaTecnica\PruebaTecnica.Shared\obj\Debug\net6.0\PruebaTecnica.Shared.csproj.CoreCompileInputs.cache
+C:\Users\crt18\OneDrive\Escritorio\Prueba\PruebaTecnica\PruebaTecnica.Shared\obj\Debug\net6.0\PruebaTecnica.Shared.dll
+C:\Users\crt18\OneDrive\Escritorio\Prueba\PruebaTecnica\PruebaTecnica.Shared\obj\Debug\net6.0\refint\PruebaTecnica.Shared.dll
+C:\Users\crt18\OneDrive\Escritorio\Prueba\PruebaTecnica\PruebaTecnica.Shared\obj\Debug\net6.0\PruebaTecnica.Shared.pdb
+C:\Users\crt18\OneDrive\Escritorio\Prueba\PruebaTecnica\PruebaTecnica.Shared\obj\Debug\net6.0\ref\PruebaTecnica.Shared.dll

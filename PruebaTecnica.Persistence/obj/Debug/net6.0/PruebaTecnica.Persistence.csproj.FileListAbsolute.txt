@@ -1,0 +1,12 @@
+C:\Users\crt18\OneDrive\Escritorio\Prueba\PruebaTecnica\PruebaTecnica.Persistence\bin\Debug\net6.0\PruebaTecnica.Persistence.deps.json
+C:\Users\crt18\OneDrive\Escritorio\Prueba\PruebaTecnica\PruebaTecnica.Persistence\bin\Debug\net6.0\PruebaTecnica.Persistence.dll
+C:\Users\crt18\OneDrive\Escritorio\Prueba\PruebaTecnica\PruebaTecnica.Persistence\bin\Debug\net6.0\PruebaTecnica.Persistence.pdb
+C:\Users\crt18\OneDrive\Escritorio\Prueba\PruebaTecnica\PruebaTecnica.Persistence\obj\Debug\net6.0\PruebaTecnica.Persistence.csproj.AssemblyReference.cache
+C:\Users\crt18\OneDrive\Escritorio\Prueba\PruebaTecnica\PruebaTecnica.Persistence\obj\Debug\net6.0\PruebaTecnica.Persistence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\crt18\OneDrive\Escritorio\Prueba\PruebaTecnica\PruebaTecnica.Persistence\obj\Debug\net6.0\PruebaTecnica.Persistence.AssemblyInfoInputs.cache
+C:\Users\crt18\OneDrive\Escritorio\Prueba\PruebaTecnica\PruebaTecnica.Persistence\obj\Debug\net6.0\PruebaTecnica.Persistence.AssemblyInfo.cs
+C:\Users\crt18\OneDrive\Escritorio\Prueba\PruebaTecnica\PruebaTecnica.Persistence\obj\Debug\net6.0\PruebaTecnica.Persistence.csproj.CoreCompileInputs.cache
+C:\Users\crt18\OneDrive\Escritorio\Prueba\PruebaTecnica\PruebaTecnica.Persistence\obj\Debug\net6.0\PruebaTecnica.Persistence.dll
+C:\Users\crt18\OneDrive\Escritorio\Prueba\PruebaTecnica\PruebaTecnica.Persistence\obj\Debug\net6.0\refint\PruebaTecnica.Persistence.dll
+C:\Users\crt18\OneDrive\Escritorio\Prueba\PruebaTecnica\PruebaTecnica.Persistence\obj\Debug\net6.0\PruebaTecnica.Persistence.pdb
+C:\Users\crt18\OneDrive\Escritorio\Prueba\PruebaTecnica\PruebaTecnica.Persistence\obj\Debug\net6.0\ref\PruebaTecnica.Persistence.dll
