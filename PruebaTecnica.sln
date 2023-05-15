@@ -3,23 +3,17 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.5.33627.172
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Presentation", "Presentation", "{3DF42425-ED71-4C4B-B772-EC5E7D6F810F}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "API", "API", "{3DF42425-ED71-4C4B-B772-EC5E7D6F810F}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Core", "Core", "{9C601A78-0187-44CB-8B0B-8D70CBF3D9EB}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Infrastructure", "Infrastructure", "{0DE45B12-956B-4B6C-BD3E-199145B8E6F3}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Shared", "Shared", "{663D8C02-8A99-490F-962F-D6E26CE5250A}"
-EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PruebaTecnica.Domain", "PruebaTecnica.Domain\PruebaTecnica.Domain.csproj", "{D1F3AF2D-D1D6-43C9-B44E-CC6E612129B5}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PruebaTecnica.Application", "PruebaTecnica.Application\PruebaTecnica.Application.csproj", "{94BAB0EF-47E8-44C6-BC41-C08890268C14}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PruebaTecnica.Infrastructure", "PruebaTecnica.Infrastructure\PruebaTecnica.Infrastructure.csproj", "{895F4311-8183-4AB7-B8A8-AC7FF675BBD0}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PruebaTecnica.Persistence", "PruebaTecnica.Persistence\PruebaTecnica.Persistence.csproj", "{8A669C8E-E686-4641-81FF-1C61B492AA2C}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PruebaTecnica.Shared", "PruebaTecnica.Shared\PruebaTecnica.Shared.csproj", "{31F25122-3342-411E-AC60-72D421E0C197}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PruebaTecnica.Infrastructure", "PruebaTecnica.Persistence\PruebaTecnica.Infrastructure.csproj", "{8A669C8E-E686-4641-81FF-1C61B492AA2C}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PruebaTecnica.API", "PruebaTecnica.API\PruebaTecnica.API.csproj", "{58D792C9-D5E4-49C5-BADB-42A80CA5D3D5}"
 EndProject
@@ -37,18 +31,10 @@ Global
 		{94BAB0EF-47E8-44C6-BC41-C08890268C14}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{94BAB0EF-47E8-44C6-BC41-C08890268C14}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{94BAB0EF-47E8-44C6-BC41-C08890268C14}.Release|Any CPU.Build.0 = Release|Any CPU
-		{895F4311-8183-4AB7-B8A8-AC7FF675BBD0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{895F4311-8183-4AB7-B8A8-AC7FF675BBD0}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{895F4311-8183-4AB7-B8A8-AC7FF675BBD0}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{895F4311-8183-4AB7-B8A8-AC7FF675BBD0}.Release|Any CPU.Build.0 = Release|Any CPU
 		{8A669C8E-E686-4641-81FF-1C61B492AA2C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{8A669C8E-E686-4641-81FF-1C61B492AA2C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8A669C8E-E686-4641-81FF-1C61B492AA2C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8A669C8E-E686-4641-81FF-1C61B492AA2C}.Release|Any CPU.Build.0 = Release|Any CPU
-		{31F25122-3342-411E-AC60-72D421E0C197}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{31F25122-3342-411E-AC60-72D421E0C197}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{31F25122-3342-411E-AC60-72D421E0C197}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{31F25122-3342-411E-AC60-72D421E0C197}.Release|Any CPU.Build.0 = Release|Any CPU
 		{58D792C9-D5E4-49C5-BADB-42A80CA5D3D5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{58D792C9-D5E4-49C5-BADB-42A80CA5D3D5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{58D792C9-D5E4-49C5-BADB-42A80CA5D3D5}.Release|Any CPU.ActiveCfg = Release|Any CPU
@@ -60,9 +46,7 @@ Global
 	GlobalSection(NestedProjects) = preSolution
 		{D1F3AF2D-D1D6-43C9-B44E-CC6E612129B5} = {9C601A78-0187-44CB-8B0B-8D70CBF3D9EB}
 		{94BAB0EF-47E8-44C6-BC41-C08890268C14} = {9C601A78-0187-44CB-8B0B-8D70CBF3D9EB}
-		{895F4311-8183-4AB7-B8A8-AC7FF675BBD0} = {0DE45B12-956B-4B6C-BD3E-199145B8E6F3}
 		{8A669C8E-E686-4641-81FF-1C61B492AA2C} = {0DE45B12-956B-4B6C-BD3E-199145B8E6F3}
-		{31F25122-3342-411E-AC60-72D421E0C197} = {663D8C02-8A99-490F-962F-D6E26CE5250A}
 		{58D792C9-D5E4-49C5-BADB-42A80CA5D3D5} = {3DF42425-ED71-4C4B-B772-EC5E7D6F810F}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
