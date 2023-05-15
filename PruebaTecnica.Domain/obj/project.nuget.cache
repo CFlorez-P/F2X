@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "2Fvc69e4Qd5Ob4RhBCuLFFMj6eNhdOO0W8Vtf8mn1R20mokXsxfJMpCQvKdx/InrPDVUAcMmNr522n1IMdYFPg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\crt18\\OneDrive\\Escritorio\\Prueba\\PruebaTecnica\\PruebaTecnica.Domain\\PruebaTecnica.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\crt18\\.nuget\\packages\\mediatr\\12.0.1\\mediatr.12.0.1.nupkg.sha512",
+    "C:\\Users\\crt18\\.nuget\\packages\\mediatr.contracts\\2.0.1\\mediatr.contracts.2.0.1.nupkg.sha512",
+    "C:\\Users\\crt18\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\6.0.0\\microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
